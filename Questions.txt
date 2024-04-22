@@ -1,0 +1,23 @@
+Pizza Order Analysis Questions
+
+**Basic:**
+
+1. How many total pizza orders were placed?
+2. What is the total amount of money made from selling pizzas?
+3. Which pizza has the highest price on the menu?
+4. What size pizza do customers order the most?
+5. What are the 5 most popular pizza types, and how many of each were ordered?
+
+**Intermediate:**
+
+1. Considering all categories, what is the total quantity of each type of pizza sold? (e.g., Pepperoni, Hawaiian, Veggie)
+2. At what time of day do we receive the most pizza orders?
+3. Can you break down the pizza orders by category (e.g., Meat Lovers, Vegetarian, Specialty)?
+4. What's the average number of pizzas ordered per day?
+5. Focusing on revenue, which 3 pizza types are the top sellers?
+
+**Advanced:**
+
+1. For each pizza type, what percentage of the total revenue did it contribute?
+2. Can you show a graph of how revenue has changed over time?
+3. Within each pizza category, which 3 pizza types generate the most revenue? 
